@@ -1,0 +1,90 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    padding: 30px;
+    font-size: 30px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+.header {
+    background-color: aqua;
+    padding: 30px;
+    display: flex;
+}
+
+.header img {
+    width: 200px;
+    height: auto;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+    gap: 100px;
+}
+
+.navactive a {
+    color: blue;
+    text-decoration: underline;
+}
+
+h1 {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    text-decoration: underline;
+    padding: 30px;
+}
+
+.section2 img {
+    padding: 20px;
+    width: auto;
+    height: 500px;
+}
+
+.section2 {
+    display: flex;
+    text-align: justify;
+    padding: 30px;
+}
+
+.section2 h2 {
+    display: flex;
+}
+
+.section3 img {
+    padding: 20px;
+    width: auto;
+    height: 500px;
+    margin-left: auto;
+    display: flex;
+}
+
+.section3 p {
+    display: flex;
+}
+
+.section2 .topi {
+    display: flex;
+    flex-direction: column;
+}
+
+.section3 {
+    display: flex;
+    text-align: justify;
+    padding: 20px;
+}
+
+.section1 {
+    text-align: center;
+}
+
+.word {
+    font-size: 100px;
+}
